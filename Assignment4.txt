@@ -1,1 +1,14 @@
-<p>Doug Ford</p>
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>St.Louis Blues Win First Ever Stanley Cup!</title>
+	</head>
+	
+	<body>Timelin of events  leading up to the St. Louis Blues first ever Stanley Cup victory!
+		<img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
+         height="80">
+	
+	
+	</body>
+</html>
