@@ -3,10 +3,22 @@ body {
   background-color: yellow;
   text-align: center;
 }
+#title1 {
+	font-size: 40px;
+}
 h1 {
   
   font-size: 20px;
 }
+p {
+	text-align: center;
+}
+image {
+	margin: auto;
+}
 footer {
 	display: block;
+}
+.footer {
+	background-color: blue;
 }
